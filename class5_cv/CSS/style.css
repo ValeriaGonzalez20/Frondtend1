@@ -1,0 +1,60 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+header {
+    background-color: #D2B4DE;
+    text-align: center;
+    line-height: 2;
+}
+
+main {
+    margin: 50px auto;
+    max-width: 800px;
+}
+
+section{
+    margin-top: 30px;
+}
+
+h1, h2 { /* Cosas que tienen en común las dif etiquetas*/
+    font-family: Cambria, Times, serif;
+    background-color: #BB8FCE;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+}
+
+h1 {
+    color: #5B2C6F ;
+    word-spacing: 1.5em;
+    font-size: 24px;
+}
+
+h2 {
+    color: #5B2C6F;
+    font-size: 18px;
+}
+
+.itemDetail {
+    font-style: italic;
+    font-weight: bold;
+}
+
+li {
+    font-style: normal;
+    font-variant: small-caps;
+}
+
+footer {
+    background-color: #BB8FCE;
+    color: #ddd;
+    text-align: center;
+    font-size: 24px; 
+}
+
+.imgLink {
+    width: 20px;
+    height: 20px;
+}
+
